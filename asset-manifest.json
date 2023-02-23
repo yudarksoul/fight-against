@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/fight-against/static/css/main.c4fdee7e.css",
-    "main.js": "/fight-against/static/js/main.871e8fd4.js",
+    "main.js": "/fight-against/static/js/main.28890b75.js",
     "static/js/787.b3992eac.chunk.js": "/fight-against/static/js/787.b3992eac.chunk.js",
     "static/media/monster_472.jpg": "/fight-against/static/media/monster_472.2b624f1a2fe0e643d33f.jpg",
     "static/media/monster_471.jpg": "/fight-against/static/media/monster_471.c3cf339f9d8a303926ee.jpg",
     "static/media/monster_473.jpg": "/fight-against/static/media/monster_473.e90ca3bc1c59ed1f0f57.jpg",
+    "static/media/monster_1459.jpg": "/fight-against/static/media/monster_1459.77e7b67f7499b82392f4.jpg",
+    "static/media/monster_1285.jpg": "/fight-against/static/media/monster_1285.e267b09503a47274fd9b.jpg",
     "static/media/monster_1407.jpg": "/fight-against/static/media/monster_1407.6170dddb8c4404e8d606.jpg",
     "index.html": "/fight-against/index.html",
     "main.c4fdee7e.css.map": "/fight-against/static/css/main.c4fdee7e.css.map",
-    "main.871e8fd4.js.map": "/fight-against/static/js/main.871e8fd4.js.map",
+    "main.28890b75.js.map": "/fight-against/static/js/main.28890b75.js.map",
     "787.b3992eac.chunk.js.map": "/fight-against/static/js/787.b3992eac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4fdee7e.css",
-    "static/js/main.871e8fd4.js"
+    "static/js/main.28890b75.js"
   ]
 }
